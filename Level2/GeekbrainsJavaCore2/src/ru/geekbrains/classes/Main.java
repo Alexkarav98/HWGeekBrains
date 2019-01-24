@@ -27,5 +27,6 @@ public class Main {
         team1.showResults();
         System.out.println();
         team2.showResults();
+
     }
 }
